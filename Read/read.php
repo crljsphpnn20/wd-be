@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PHP Projects | Poonin</title>
+    <title>Bootstrap demo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
     <link rel="stylesheet" href="">
-    <link rel="shortcut icon" href="Images/mylogo.png" type="png">
+
 </head>
 
 <body>
@@ -16,21 +16,7 @@
     <div class="container-fluid bg-dark text-white py-5">
         <div class="row">
             <div class="col-12">
-                <div class="display-3 text-center">PHP Folders</div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container-fluid">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-4 col-3 my-3">
-                    <div class="card p-5 rounded-5 shadow">
-                        <div class="h1">Read Only</div>
-                        <iframe src="" frameborder="0"></iframe>
-                        <div class="btn btn-outline-primary rounded-5 shadow col-12 col-md-6 mx-auto">View</div>
-                    </div>
-                </div>
+                <div class="display-3 text-center">Read Only</div>
             </div>
         </div>
     </div>
