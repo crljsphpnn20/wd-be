@@ -26,9 +26,9 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-4 col-3 my-3">
                     <div class="card p-5 rounded-5 shadow">
-                        <div class="h1">Read Only</div>
-                        <iframe src="" frameborder="0"></iframe>
-                        <div class="btn btn-outline-primary rounded-5 shadow col-12 col-md-6 mx-auto">View</div>
+                        <div class="h1">Variables</div>
+                        <iframe src="http://localhost/wd-be/Variables/index.php" frameborder="0"></iframe>
+                        <a href="Variables/index.php" class="btn btn-dark rounded-5 shadow my-3" target="_self">View</a>
                     </div>
                 </div>
             </div>
