@@ -25,7 +25,7 @@
                             <label for="exampleInputPassword1" class="form-label">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1" name="password" required>
                         </div>
-                        <button class="btn btn-primary w-100"><a href="../../alphabet-number/index.php" class="text-light text-decoration-none">Login</a></button>
+                        <a href="../../alphabet-number/index.php" class="btn btn-primary w-100 text-light text-decoration-none">Login</a>
                     </form>
                 </div>
             </div>
