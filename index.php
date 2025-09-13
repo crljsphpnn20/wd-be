@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="Images/mylogo.png" type="png">
 </head>
 
-<body>
+<body data-bs-theme="dark">
 
     <div class="container-fluid bg-dark text-white py-5">
         <div class="row">
@@ -24,11 +24,18 @@
     <div class="container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-6 col-lg-4 col-3 my-3">
-                    <div class="card p-5 rounded-5 shadow">
-                        <div class="h1">Variables</div>
-                        <iframe src="http://localhost/wd-be/Variables/index.php" frameborder="0"></iframe>
-                        <a href="Variables/index.php" class="btn btn-dark rounded-5 shadow my-3" target="_self">View</a>
+                <div class="col-12 mx-auto m-3">
+                    <div class="card p-5 rounded-5 shadow center">
+                        <div class="display-6">
+                            <a href="../wd-be/variables/index.php" class="text-light text-decoration-none my-3" title="View">Variable</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 mx-auto m-3">
+                    <div class="card p-5 rounded-5 shadow center">
+                        <div class="display-6">
+                            <a href="../wd-be/login/index.php" class="text-light text-decoration-none my-3" title="View">Login</a>
+                        </div>
                     </div>
                 </div>
             </div>
